@@ -6,3 +6,10 @@ build
 .settings
 .classpath
 .project
+lib/bin
+gradle
+.gitattributes
+gradlew
+gradlew.bat
+lib/build.gradle
+settings.gradle
